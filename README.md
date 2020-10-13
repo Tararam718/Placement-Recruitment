@@ -16,5 +16,5 @@ Feature Details -
                 Mba_p => MBA percentage
                 Status => Placed and Not Placed
                 Salary => Annual Package
-Feature selection – Sequential Feature Selection
 Algorithm used Linear Regression, Decision Tree classifier and Random forest
+Feature selection – Sequential Feature Selection
