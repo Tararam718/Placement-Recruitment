@@ -9,6 +9,7 @@ Data Set 2 - As the dataset obtained from Kaggle was very less. Rand function an
 The Prediction are done if Students gets placed or not which is a Binary Classification Problem, and Predicting features affecting salary a Regression Problem
 
 Feature Details -
+                
                 Gender => Gender of students
                 ssc_p, hsc_p => Percentage of SSC and HSC board
                 ssc_b, hsc_b => Board of SSC and HSC
@@ -23,4 +24,5 @@ Feature Details -
                 Salary => Annual Package
 
 Algorithm used Linear Regression, Decision Tree classifier and Random forest
+
 Feature selection – Sequential Feature Selection
